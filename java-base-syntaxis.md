@@ -6,17 +6,10 @@
 > Установите JDK, напишите первую программу, скомпилируйте и запустите её.
 
 <details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-<details>
-
-Материалы: 
-
-https://metanit.com/java/tutorial/1.1.php  
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/1.1.php <br>
 https://www.youtube.com/watch?v=uXMTq81jG7Y&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX  
-
-
+</details>  
 
 **Тема: Установка IDE(среды разработки), первая программа в IDE.**
 
