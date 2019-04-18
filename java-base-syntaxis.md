@@ -2,14 +2,15 @@
 
 **Тема: Установка JDK, первая программа**
 
-> Задание: 
-> Установите JDK, напишите первую программу, скомпилируйте и запустите её.
-
 <details>
 <summary>Материалы:</summary>
 https://metanit.com/java/tutorial/1.1.php <br>
 https://www.youtube.com/watch?v=uXMTq81jG7Y&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX  
 </details>  
+
+> Задание: 
+> Установите JDK, напишите первую программу, скомпилируйте и запустите её.
+
 
 **Тема: Установка IDE(среды разработки), первая программа в IDE.**
 
@@ -27,6 +28,13 @@ https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyj
 
 **Тема: Простые (примитивные) типы данных.**
 
+<details>
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/2.1.php  <br>
+https://metanit.com/java/tutorial/2.12.php  <br>
+https://www.youtube.com/watch?v=ZnzIpVWAPv8  <br>
+</details>
+
 > Задание:
 > В классе Main объявите переменные всех простых(примитивных) типов. Проинициализируйте их значениями отличными от значений по умолчанию.
 > Условия:
@@ -36,14 +44,13 @@ https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyj
 > - В классе Main должны быть переменные только простых типов
 > - Значения переменных должны отличаться от значений по умолчанию
 
-<details>
-<summary>Материалы:</summary>
-https://metanit.com/java/tutorial/2.1.php  <br>
-https://metanit.com/java/tutorial/2.12.php  <br>
-https://www.youtube.com/watch?v=ZnzIpVWAPv8  <br>
-</details>
-
 **Тема: Работа со строками**
+
+<details>
+<summary>Материалы:</summary> 
+https://metanit.com/java/tutorial/7.1.php  <br>
+<https://www.youtube.com/watch?v=MsY0qTXILIY&list=PLk95cAdGYXN1GYSm1NIMHJuyq_kk9Obg9&index=22> <br>
+</details>
 
 > Задание:
 > В методе main (точка входа в программу) объявите строковую переменную String name и присвойте ей ваше имя при инициализации, после чего выведите её в консоль.
@@ -54,14 +61,14 @@ https://www.youtube.com/watch?v=ZnzIpVWAPv8  <br>
 > - Переменная должна иметь имя name
 > - В консоль должно быть выведено значение переменной name
 
-<details>
-<summary>Материалы:</summary> 
-https://metanit.com/java/tutorial/7.1.php  <br>
-<https://www.youtube.com/watch?v=MsY0qTXILIY&list=PLk95cAdGYXN1GYSm1NIMHJuyq_kk9Obg9&index=22> <br>
-</details>
-
-
 **Тема: Методы**
+
+<details>
+<summary>Материалы:</summary>
+<https://metanit.com/java/tutorial/2.7.php>  <br>
+<https://metanit.com/java/tutorial/2.16.php> <br>
+<https://www.youtube.com/watch?v=qrBmQ_5Yen0>  <br>
+</details>
 
 > Задание №1:
 >
@@ -97,10 +104,3 @@ https://metanit.com/java/tutorial/7.1.php  <br>
 >
 >   - Метод не должен ничего возвращать
 
-
-
-<details>
-<summary>Материалы:</summary>
-<https://metanit.com/java/tutorial/2.7.php>  <br>
-<https://metanit.com/java/tutorial/2.16.php> <br>
-https://www.youtube.com/watch?v=qrBmQ_5Yen0  <br>
