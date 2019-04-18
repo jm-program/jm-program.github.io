@@ -103,15 +103,19 @@ https://www.youtube.com/watch?v=qrBmQ_5Yen0  <br>
 >
 >   - Метод не должен ничего возвращать
 
-Материалы:  
-<https://metanit.com/java/tutorial/2.7.php>  
-<https://metanit.com/java/tutorial/2.16.php>  
-https://www.youtube.com/watch?v=qrBmQ_5Yen0  
+<details>
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/2.7.php <br>
+https://metanit.com/java/tutorial/2.16.php <br>
+https://www.youtube.com/watch?v=qrBmQ_5Yen0  <br>
+</details>
 
 **Тема: Методы с возвращаемым значением.**
 
-Материалы:
-	<https://metanit.com/java/tutorial/2.17.php>
+<details>
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/2.17.php <br>
+</details>
 
 > Задание №1
 >
@@ -139,10 +143,11 @@ https://www.youtube.com/watch?v=qrBmQ_5Yen0
 
 **Тема: Условные операторы.**
 
-Материалы:
-https://metanit.com/java/tutorial/2.5.php
-
-https://www.youtube.com/watch?v=AzbyMP6qXo0
+<details>
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/2.5.php <br>
+https://www.youtube.com/watch?v=AzbyMP6qXo0 <br>
+</details>
 
 > Задание:
 >
@@ -157,12 +162,12 @@ https://www.youtube.com/watch?v=AzbyMP6qXo0
 
 **Тема: Циклы.**
 
-Материалы:
-https://metanit.com/java/tutorial/2.6.php
-
-https://www.youtube.com/watch?v=Q2DXFrzYWJs&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=39
-
-https://www.youtube.com/watch?v=6Vnm9T4NC2k&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=40
+<details>
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/2.6.php <br>
+https://www.youtube.com/watch?v=Q2DXFrzYWJs&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=39 <br>
+https://www.youtube.com/watch?v=6Vnm9T4NC2k&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=40 <br>
+</details>
 
 > Задание №1
 >
@@ -189,9 +194,12 @@ https://www.youtube.com/watch?v=6Vnm9T4NC2k&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyj
 
 **Тема: Double, long, арифметические.**
 
-Материалы:
-https://metanit.com/java/tutorial/2.3.php
-https://www.youtube.com/watch?v=zFwDK3BYFcc
+
+<details>
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/2.3.php <br>
+https://www.youtube.com/watch?v=zFwDK3BYFcc <br>
+</details>
 
 > Задание:
 >
@@ -206,10 +214,12 @@ https://www.youtube.com/watch?v=zFwDK3BYFcc
 
 **Тема: Scanner, чтение с консоли**
 
-Материалы:
-https://metanit.com/java/tutorial/2.9.php
 
-https://www.youtube.com/watch?v=Y2iB_DwdyfM&t=0s
+<details>
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/2.9.php <br>
+https://www.youtube.com/watch?v=Y2iB_DwdyfM&t=0s <br>
+</details>
 
 > Задание:
 >
@@ -240,10 +250,12 @@ https://www.youtube.com/watch?v=Y2iB_DwdyfM&t=0s
 
 **Тема: Создание и заполнение массива.**
 
-Материалы:
 
-https://metanit.com/java/tutorial/2.4.php
-https://www.youtube.com/watch?v=i_IiGj65bJMC
+<details>
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/2.4.php <br>
+https://www.youtube.com/watch?v=i_IiGj65bJMC <br>
+</details>
 
 > Задание:
 >
@@ -274,9 +286,12 @@ https://www.youtube.com/watch?v=i_IiGj65bJMC
 
 **Тема: Объекты и классы.**
 
-Материалы:
-https://metanit.com/java/tutorial/3.1.php
-https://www.youtube.com/watch?v=ftDWs7ICBCw&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=4
+
+<details>
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/3.1.php <br>
+https://www.youtube.com/watch?v=ftDWs7ICBCw&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=4 <br>
+</details>
 
 > Задание:
 >
