@@ -60,12 +60,13 @@ https://metanit.com/java/tutorial/7.1.php  <br>
 > - Переменная должна иметь имя name
 > - В консоль должно быть выведено значение переменной name
 
-**Тема: Методы**  
+**Тема: Простые (примитивные) типы данных.**
+
 <details>
 <summary>Материалы:</summary>
-<https://metanit.com/java/tutorial/2.7.php>  <br>
-<https://metanit.com/java/tutorial/2.16.php> <br>
-<https://www.youtube.com/watch?v=qrBmQ_5Yen0>  <br>
+https://metanit.com/java/tutorial/2.1.php  <br>
+https://metanit.com/java/tutorial/2.12.php  <br>
+https://www.youtube.com/watch?v=ZnzIpVWAPv8  <br>
 </details>
 
 > Задание №1:
