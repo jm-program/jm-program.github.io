@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyj
 <details>
 <summary>Материалы:</summary>https://metanit.com/java/tutorial/2.1.php  
 https://metanit.com/java/tutorial/2.12.php  <br>
-https://www.youtube.com/watch?v=ZnzIpVWAPv8  
+https://www.youtube.com/watch?v=ZnzIpVWAPv8  <br>
 </details>
 
 **Тема: Работа со строками**
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=ZnzIpVWAPv8
 <details>
 <summary>Материалы:</summary> 
 https://metanit.com/java/tutorial/7.1.php  <br>
-<https://www.youtube.com/watch?v=MsY0qTXILIY&list=PLk95cAdGYXN1GYSm1NIMHJuyq_kk9Obg9&index=22>  
+<https://www.youtube.com/watch?v=MsY0qTXILIY&list=PLk95cAdGYXN1GYSm1NIMHJuyq_kk9Obg9&index=22> <br>
 </details>
 
 
@@ -102,4 +102,4 @@ https://metanit.com/java/tutorial/7.1.php  <br>
 <summary>Материалы:</summary>
 <https://metanit.com/java/tutorial/2.7.php>  <br>
 <https://metanit.com/java/tutorial/2.16.php> <br>
-https://www.youtube.com/watch?v=qrBmQ_5Yen0  
+https://www.youtube.com/watch?v=qrBmQ_5Yen0  <br>
