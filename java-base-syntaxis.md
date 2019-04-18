@@ -61,8 +61,8 @@ https://metanit.com/java/tutorial/7.1.php  <br>
 > - Переменная должна иметь имя name
 > - В консоль должно быть выведено значение переменной name
 
-**Тема: Методы**
-
+**Тема: Методы** . 
+  
 <details>
 <summary>Материалы:</summary>
 <https://metanit.com/java/tutorial/2.7.php>  <br>
