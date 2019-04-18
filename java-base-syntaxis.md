@@ -18,8 +18,8 @@ https://www.youtube.com/watch?v=uXMTq81jG7Y&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyj
 
 <details>
 <summary>Материалы:</summary>
-https://metanit.com/java/tutorial/1.5.php  
-https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=3  
+https://metanit.com/java/tutorial/1.5.php  <br>
+https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=3  <br>
 </details>
 
 *P.S. После изучения Java Core (ядра Java), мы предоставим вам лицензию на IDEA Ultimate Edition, т.к. JetBrains являются партнёрами проекта Java Mentor.*
@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyj
 
 <details>
 <summary>Материалы:</summary>
-https://metanit.com/java/tutorial/2.1.php  
+https://metanit.com/java/tutorial/2.1.php  <br>
 https://metanit.com/java/tutorial/2.12.php  <br>
 https://www.youtube.com/watch?v=ZnzIpVWAPv8  <br>
 </details>
