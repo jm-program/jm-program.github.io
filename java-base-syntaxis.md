@@ -16,10 +16,11 @@ https://www.youtube.com/watch?v=uXMTq81jG7Y&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyj
 > Задание: 
 > Установите Intellij IDEA, напишите первую программу в IDE и запустите её.
 
-Материалы:
-
+<details>
+<summary>Материалы:</summary>
 https://metanit.com/java/tutorial/1.5.php  
 https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=3  
+</details>
 
 *P.S. После изучения Java Core (ядра Java), мы предоставим вам лицензию на IDEA Ultimate Edition, т.к. JetBrains являются партнёрами проекта Java Mentor.*
 
@@ -35,11 +36,11 @@ https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyj
 > - В классе Main должны быть переменные только простых типов
 > - Значения переменных должны отличаться от значений по умолчанию
 
-Материалы:  
-https://metanit.com/java/tutorial/2.1.php  
+<details>
+<summary>Материалы:</summary>https://metanit.com/java/tutorial/2.1.php  
 https://metanit.com/java/tutorial/2.12.php  
 https://www.youtube.com/watch?v=ZnzIpVWAPv8  
-
+</details>
 
 **Тема: Работа со строками**
 
@@ -52,10 +53,11 @@ https://www.youtube.com/watch?v=ZnzIpVWAPv8
 > - Переменная должна иметь имя name
 > - В консоль должно быть выведено значение переменной name
 
-Материалы:  
-https://metanit.com/java/tutorial/7.1.php  
+<details>
+<summary>Материалы:</summary> 
+https://metanit.com/java/tutorial/7.1.php  <br>
 <https://www.youtube.com/watch?v=MsY0qTXILIY&list=PLk95cAdGYXN1GYSm1NIMHJuyq_kk9Obg9&index=22>  
-
+</details>
 
 
 **Тема: Методы**
