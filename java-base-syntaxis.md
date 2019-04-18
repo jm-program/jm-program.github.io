@@ -37,7 +37,8 @@ https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyj
 > - Значения переменных должны отличаться от значений по умолчанию
 
 <details>
-<summary>Материалы:</summary>https://metanit.com/java/tutorial/2.1.php  
+<summary>Материалы:</summary>
+https://metanit.com/java/tutorial/2.1.php  
 https://metanit.com/java/tutorial/2.12.php  <br>
 https://www.youtube.com/watch?v=ZnzIpVWAPv8  <br>
 </details>
