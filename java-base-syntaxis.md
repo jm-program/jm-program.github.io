@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyj
 > - В классе Main должны быть переменные только простых типов
 > - Значения переменных должны отличаться от значений по умолчанию
 
-Материалы:
+Материалы:  
 https://metanit.com/java/tutorial/2.1.php  
 https://metanit.com/java/tutorial/2.12.php  
 https://www.youtube.com/watch?v=ZnzIpVWAPv8  
@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=ZnzIpVWAPv8
 > - Переменная должна иметь имя name
 > - В консоль должно быть выведено значение переменной name
 
-Материалы:
+Материалы:  
 https://metanit.com/java/tutorial/7.1.php  
 <https://www.youtube.com/watch?v=MsY0qTXILIY&list=PLk95cAdGYXN1GYSm1NIMHJuyq_kk9Obg9&index=22>  
 
@@ -97,7 +97,7 @@ https://metanit.com/java/tutorial/7.1.php
 
 
 
-Материалы:
+Материалы:  
 <https://metanit.com/java/tutorial/2.7.php>  
 <https://metanit.com/java/tutorial/2.16.php>  
 https://www.youtube.com/watch?v=qrBmQ_5Yen0  
