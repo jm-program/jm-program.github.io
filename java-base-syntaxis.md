@@ -2,33 +2,30 @@
 
 **Тема: Установка JDK, первая программа**
 
-Материалы: 
-
-https://metanit.com/java/tutorial/1.1.php
-
-https://www.youtube.com/watch?v=uXMTq81jG7Y&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX
-
 > Задание: 
 > Установите JDK, напишите первую программу, скомпилируйте и запустите её.
 
+Материалы: 
+
+https://metanit.com/java/tutorial/1.1.php  
+https://www.youtube.com/watch?v=uXMTq81jG7Y&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX  
+
+
+
 **Тема: Установка IDE(среды разработки), первая программа в IDE.**
-
-Материалы:
-
-https://metanit.com/java/tutorial/1.5.php
-
-https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=3
-
-*P.S. После изучения Java Core (ядра Java), мы предоставим вам лицензию на IDEA Ultimate Edition, т.к. JetBrains являются партнёрами проекта Java Mentor.*
 
 > Задание: 
 > Установите Intellij IDEA, напишите первую программу в IDE и запустите её.
 
-**Тема: Простые (примитивные) типы данных.**
 Материалы:
-https://metanit.com/java/tutorial/2.1.php
-https://metanit.com/java/tutorial/2.12.php
-https://www.youtube.com/watch?v=ZnzIpVWAPv8
+
+https://metanit.com/java/tutorial/1.5.php  
+https://www.youtube.com/watch?v=tSTvCyqeeYY&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX&index=3  
+
+*P.S. После изучения Java Core (ядра Java), мы предоставим вам лицензию на IDEA Ultimate Edition, т.к. JetBrains являются партнёрами проекта Java Mentor.*
+
+
+**Тема: Простые (примитивные) типы данных.**
 
 > Задание:
 > В классе Main объявите переменные всех простых(примитивных) типов. Проинициализируйте их значениями отличными от значений по умолчанию.
@@ -39,12 +36,13 @@ https://www.youtube.com/watch?v=ZnzIpVWAPv8
 > - В классе Main должны быть переменные только простых типов
 > - Значения переменных должны отличаться от значений по умолчанию
 
-**Тема: Работа со строками**
-
 Материалы:
-https://metanit.com/java/tutorial/7.1.php
+https://metanit.com/java/tutorial/2.1.php  
+https://metanit.com/java/tutorial/2.12.php  
+https://www.youtube.com/watch?v=ZnzIpVWAPv8  
 
-<https://www.youtube.com/watch?v=MsY0qTXILIY&list=PLk95cAdGYXN1GYSm1NIMHJuyq_kk9Obg9&index=22>
+
+**Тема: Работа со строками**
 
 > Задание:
 > В методе main (точка входа в программу) объявите строковую переменную String name и присвойте ей ваше имя при инициализации, после чего выведите её в консоль.
@@ -55,16 +53,13 @@ https://metanit.com/java/tutorial/7.1.php
 > - Переменная должна иметь имя name
 > - В консоль должно быть выведено значение переменной name
 
+Материалы:
+https://metanit.com/java/tutorial/7.1.php  
+<https://www.youtube.com/watch?v=MsY0qTXILIY&list=PLk95cAdGYXN1GYSm1NIMHJuyq_kk9Obg9&index=22>  
+
 
 
 **Тема: Методы**
-
-Материалы:
-<https://metanit.com/java/tutorial/2.7.php>
-
-<https://metanit.com/java/tutorial/2.16.php>
-
-https://www.youtube.com/watch?v=qrBmQ_5Yen0
 
 > Задание №1:
 >
@@ -86,3 +81,23 @@ https://www.youtube.com/watch?v=qrBmQ_5Yen0
 > - Метод должен принимать строку
 > - Метод должен выводить в консоль строку “Hello {name}!”
 > - Метод не должен ничего возвращать
+
+> Задание №3
+>
+> В классе  Main создайте метод static void printDivisionResult(double x, double y), которыый будет принимать два числа с плавающей точкой и выводить в консоль результат деления первого на второе. 
+> Условия:
+>
+>   - Метод должен иметь модификатор static
+>
+>   - Метод должен принимать в качестве параметров два числа с плавающей точкой
+>
+>   - Метод должен выводить в консоль результат деление
+>
+>   - Метод не должен ничего возвращать
+
+
+
+Материалы:
+<https://metanit.com/java/tutorial/2.7.php>  
+<https://metanit.com/java/tutorial/2.16.php>  
+https://www.youtube.com/watch?v=qrBmQ_5Yen0  
