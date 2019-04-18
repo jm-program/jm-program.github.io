@@ -5,6 +5,12 @@
 > Задание: 
 > Установите JDK, напишите первую программу, скомпилируйте и запустите её.
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+<details>
+
 Материалы: 
 
 https://metanit.com/java/tutorial/1.1.php  
