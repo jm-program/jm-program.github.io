@@ -4,7 +4,7 @@
 
 <details>
 <summary>Материалы:</summary>
-https://metanit.com/java/tutorial/1.1.php <br>
+<a href="https://metanit.com/java/tutorial/1.1.php" target="_blank"></a> <br>
 https://www.youtube.com/watch?v=uXMTq81jG7Y&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX <br>
 </details>  
 
