@@ -4,8 +4,8 @@
 
 <details>
 <summary>Материалы:</summary>
-<https://metanit.com/java/tutorial/1.1.php> <br>
-<https://www.youtube.com/watch?v=uXMTq81jG7Y&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX> <br>
+https://metanit.com/java/tutorial/1.1.php <br>
+https://www.youtube.com/watch?v=uXMTq81jG7Y&list=PL786bPIlqEjRDXpAKYbzpdTaOYsWyjtCX <br>
 </details>  
 
 > Задание: 
