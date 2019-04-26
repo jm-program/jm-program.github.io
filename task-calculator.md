@@ -21,7 +21,7 @@ a + b, a - b, a * b, a / b.
 ###### Output:
 `3`
 ###### Input:
-`VL / III`  
+`VI / III`  
 ###### Output:
 `II`
  
