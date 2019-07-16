@@ -11,11 +11,11 @@
 Мы можем выбрать только одно направление или оставить поле пустым.   
 
 После нажатия на кнопку "Загрузить", должен быть отправлен GET запрос на сервер по url   
-https://frontend-test-api.alex93.now.sh/api/languages и передан параметр "group"   
+[https://frontend-test-api.alex93.now.sh/api/languages](https://frontend-test-api.alex93.now.sh/api/languages) и передан параметр "group"   
 с возможными значениями frontend, backend, mobile в зависимости от того, что выбрал пользователь на странице.   
 
 Пример запроса для получения данных по backend направлению (можно просто кликнуть по   ссылке).   
-https://frontend-test-api.alex93.now.sh/api/languages?group=backend    
+[https://frontend-test-api.alex93.now.sh/api/languages?group=backend](https://frontend-test-api.alex93.now.sh/api/languages?group=backend)  
 
 Результатом данного запроса будет JSON с данными, которые нужно вывести на страницу.   
 Пример результата работы программы:
@@ -37,6 +37,7 @@ https://frontend-test-api.alex93.now.sh/api/languages?group=backend
 Ссылку на репозиторий отправьте нам на почту info@java-mentor.com с темой **"Тестовое задание Front-end"**
 
 ## Материалы, которые могут пригодиться
-- Как выложить проект на гитхаб: http://maxsite.org/page/how-to-put-your-project-on-github-com
-- Работа с DOM: https://learn.javascript.ru/document
-- Работа с событиями: https://learn.javascript.ru/introduction-browser-events
+- [Как выложить проект на гитхаб](http://maxsite.org/page/how-to-put-your-project-on-github-com)
+- [Работа с DOM](https://learn.javascript.ru/document)
+- [Работа с событиями](https://learn.javascript.ru/introduction-browser-events)
+- [Получение данных с сервера](https://learn.javascript.ru/fetch)
