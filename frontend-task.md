@@ -31,7 +31,7 @@ https://frontend-test-api.alex93.now.sh/api/languages.js?group=backend
 - Внешний вид страницы
 
 ## Отправка
-Ссылку на репозиторий отправьте нам на почту info@java-mentor.com с темой **Тестовое задание Front-end**
+Ссылку на репозиторий отправьте нам на почту info@java-mentor.com с темой **"Тестовое задание Front-end"**
 
 ## Материалы, которые могут пригодиться
 - Как выложить проект на гитхаб: http://maxsite.org/page/how-to-put-your-project-on-github-com
