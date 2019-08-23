@@ -15,6 +15,8 @@
 #### Основной интерфейс:
 ![Интерфейс](https://monosnap.com/image/3g3m0xxfRmq4FgIh6ROkA03seYOnAl)
 
+![Сохранение решения](https://monosnap.com/image/vfZWQoSBqM99hPpTnUqwxLCc34IKv3)
+
 #### Отладка:
 ![Отладка](https://monosnap.com/image/fdEtHxoIYBNTPBOwBFnqsUKyZfGwDj)
 
