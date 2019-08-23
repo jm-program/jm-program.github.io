@@ -9,9 +9,17 @@
 4) https://www.codewars.com/kata/array-comparator/train/javascript
 5) https://www.codewars.com/kata/highest-and-lowest/train/javascript
 
-## Работа с Codewars 
+Условия задач на английском, если не знаете языка - пользуйтесь переводчиком/словарем
 
-![Interface](https://monosnap.com/image/3g3m0xxfRmq4FgIh6ROkA03seYOnAl)
+## Работа с Codewars 
+#### Основной интерфейс:
+![Интерфейс](https://monosnap.com/image/3g3m0xxfRmq4FgIh6ROkA03seYOnAl)
+
+#### Отладка:
+![Отладка](https://monosnap.com/image/fdEtHxoIYBNTPBOwBFnqsUKyZfGwDj)
+
+#### Возможные проблемы:
+![Пустой solution](https://monosnap.com/image/gb5tGhnzHz9cPkQL6ABmFzDd8L7YIt)
 
 ## Требования
 - Вы должны решить задачи самостоятельно, без чьей либо помощи
@@ -22,6 +30,7 @@
 - Читаемость кода
 
 ## Как отправить решение?
-1. 
-2. 
-3. Ссылки на решения отправьте нам на почту *info@java-mentor.com* с темой **"Тестовое задание Front-end"**
+1. Заходим в ваш профиль (View profile)
+2. Переходим на вкладку Solutions
+3. Под каждым заданием есть ссылка Discuss - копируем эту ссылку
+4. Ссылки на решения отправьте нам на почту *info@java-mentor.com* с темой **"Тестовое задание Front-end"**
