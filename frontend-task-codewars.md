@@ -3,11 +3,11 @@
 ## Описание
 
 Вам нужно зарегистрироваться на сайте [Codewars](https://www.codewars.com) и решить 5 задач:
-1) https://www.codewars.com/kata/mumbling/train/javascript
-2) https://www.codewars.com/kata/milk-and-cookies-for-santa/train/javascript
-3) https://www.codewars.com/kata/remove-duplicate-words/train/javascript
-4) https://www.codewars.com/kata/array-comparator/train/javascript
-5) https://www.codewars.com/kata/highest-and-lowest/train/javascript
+1) [Mumbling](https://www.codewars.com/kata/mumbling/train/javascript)
+2) [Milk and Cookies for Santa](https://www.codewars.com/kata/milk-and-cookies-for-santa/train/javascript)
+3) [Remove duplicate words](https://www.codewars.com/kata/remove-duplicate-words/train/javascript)
+4) [Array comparator](https://www.codewars.com/kata/array-comparator/train/javascript)
+5) [Highest and Loweest](https://www.codewars.com/kata/highest-and-lowest/train/javascript)
 
 Условия задач на английском, если не знаете языка - пользуйтесь переводчиком/словарем
 
