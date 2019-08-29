@@ -16,10 +16,10 @@
 ![Интерфейс](https://monosnap.com/image/OWE4t5zXJbQc2Qh8nPS1oXi5tNwNDQ)
 
 #### Решение не прошло проверку
-![Неверное решение](https://monosnap.com/image/u5BoAASeSjfmdV0vvciSlpuYxGNMOB)
+<img src="https://monosnap.com/image/u5BoAASeSjfmdV0vvciSlpuYxGNMOB" atl="Неверное решение" width="400px" />
 
-#### Успешное решение (все 5 задач прошли тесты):
-![Успешное решение](https://monosnap.com/image/9EZzF3cvdOEGXFhF0AIohpkzqV7COC)
+#### Успешное решение задачи:
+![Успешное решение](https://monosnap.com/image/AxOO9Im0Ej91CtYfJCarzXIM4vOkvA)
 
 ## Требования
 - Вы должны решить задачи самостоятельно, без чьей либо помощи
