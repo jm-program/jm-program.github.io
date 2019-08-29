@@ -13,7 +13,7 @@
 
 ## Работа с repl.it 
 #### Основной интерфейс:
-![Интерфейс](https://monosnap.com/image/OWE4t5zXJbQc2Qh8nPS1oXi5tNwNDQ)
+![Интерфейс](https://monosnap.com/image/S6hsglhoOFSE2pGbh2Rz81l0LsBAoU)
 
 #### Решение не прошло проверку
 <img src="https://monosnap.com/image/u5BoAASeSjfmdV0vvciSlpuYxGNMOB" atl="Неверное решение" width="400px" />
