@@ -1,4 +1,4 @@
-# Задачи на JavaScript
+# [Задачи на JavaScript](https://jm-program.github.io/frontend-tasks)
 
 Необходимо решить 5 задач на языке javascript. Решения сохранятся на платформе под уникальным url, которые нужно будет выслать нам.
 
@@ -15,7 +15,7 @@
 
 ## Работа с repl.it 
 #### Основной интерфейс:
-![Интерфейс](https://monosnap.com/image/S6hsglhoOFSE2pGbh2Rz81l0LsBAoU)
+![Интерфейс](https://monosnap.com/image/JbZCDdBvx9MPeMYKpFgpOFlLtjpT08)
 
 #### Решение не прошло проверку
 <img src="https://monosnap.com/image/u5BoAASeSjfmdV0vvciSlpuYxGNMOB" atl="Неверное решение" width="400px" />
