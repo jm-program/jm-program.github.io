@@ -5,11 +5,11 @@
 ## Описание
 
 Решите эти задачи:
-- <a href="https://repl.it/@JavaMentor/task1" target="_blank">Задача 1</a>
-- <a href="https://repl.it/@JavaMentor/task2" target="_blank">Задача 2</a>
-- <a href="https://repl.it/@JavaMentor/task3" target="_blank">Задача 3</a>
-- <a href="https://repl.it/@JavaMentor/task4" target="_blank">Задача 4</a>
-- <a href="https://repl.it/@JavaMentor/task5" target="_blank">Задача 5</a>
+- [Задача 1](https://repl.it/@JavaMentor/task1)
+- [Задача 2](https://repl.it/@JavaMentor/task2)
+- [Задача 3](https://repl.it/@JavaMentor/task3)
+- [Задача 4](https://repl.it/@JavaMentor/task4)
+- [Задача 5](https://repl.it/@JavaMentor/task5)
 
 После решения каждой задачи сохраняем ссылку на решение (url страницы или нажимаем **Share** и копируем ссылку из поля **Share Link**)
 
