@@ -2,7 +2,7 @@
 
 Необходимо решить задачу на языке javascript. 
 
-Ссылка на задачу: [https://repl.it/@JavaMentor/RomanCalculator](https://repl.it/@JavaMentor/RomanCalculator).
+Ссылка на задачу: [https://repl.it/@JavaMentor/RomanCalculator](https://repl.it/@JavaMentor/RomanCalculator)
 
 После решения задачи, сохраняем ссылку на решение (url страницы или нажимаем **Share** и копируем ссылку из поля **Share Link**).
 
