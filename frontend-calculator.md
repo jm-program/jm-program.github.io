@@ -33,7 +33,7 @@ calculate('1 + 2'); // '3'
 calculate('VI / III'); // 'II'
 calculate('VII / III'); // 'II'
 calculate('I + II'); // 'III'
-calculate('II - I'); // ''
+calculate('I - II'); // ''
 calculate('I + 1'); // throws Error
 calculate('I'); // throws Error
 calculate('1 + 1 + 1'); // throws Error
