@@ -55,7 +55,7 @@ calculate('1 + 1 + 1'); // throws Error
 <img src="https://jm-program.github.io/img/replTestSample.png" atl="Неверное решение" width="400px" />
 
 #### Успешное решение задачи:
-![Успешное решение](https://jm-program.github.io/img/replSuccess.png)
+<img src="https://jm-program.github.io/img/replSuccess.png" atl="Успешное решение" width="400px" />
 
 ## Требования
 - Вы должны решить задачу самостоятельно, без чьей-либо помощи
