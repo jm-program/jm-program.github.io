@@ -63,76 +63,76 @@ a + b, a - b, a * b, a / b.  <b> Данные передаются в одну �
 
 ##### Вам потребуется изучить некоторый теоретический минимум для решения этой задачи:
 1. Основы синтаксиса Java, простые (примитивные) типы данных:
-    - http://developer.alexanderklimov.ru/android/java/basic.php
-    - https://metanit.com/java/tutorial/2.12.php
-    - https://www.youtube.com/watch?v=ZnzIpVWAPv8
-    - https://www.youtube.com/watch?v=Y11uOcbJxgQ
+    - [http://developer.alexanderklimov.ru/android/java/basic.php](http://developer.alexanderklimov.ru/android/java/basic.php)
+    - [https://metanit.com/java/tutorial/2.12.php](https://metanit.com/java/tutorial/2.12.php)
+    - [https://www.youtube.com/watch?v=ZnzIpVWAPv8](https://www.youtube.com/watch?v=ZnzIpVWAPv8)
+    - [https://www.youtube.com/watch?v=Y11uOcbJxgQ](https://www.youtube.com/watch?v=Y11uOcbJxgQ)
     
 2. Арифметические операции в java:
-    - https://metanit.com/java/tutorial/2.3.php
-    - https://www.youtube.com/watch?v=zFwDK3BYFcc
+    - [https://metanit.com/java/tutorial/2.3.php](https://metanit.com/java/tutorial/2.3.php)
+    - [https://www.youtube.com/watch?v=zFwDK3BYFcc](https://www.youtube.com/watch?v=zFwDK3BYFcc)
     
 3. Методы:
-    - https://metanit.com/java/tutorial/2.7.php
-    - https://metanit.com/java/tutorial/2.16.php
-    - https://metanit.com/java/tutorial/2.17.php
-    - http://developer.alexanderklimov.ru/android/java/methods.php
-    - https://youtu.be/yscAqAcB7ok
+    - [https://metanit.com/java/tutorial/2.7.php](https://metanit.com/java/tutorial/2.7.php)
+    - [https://metanit.com/java/tutorial/2.16.php](https://metanit.com/java/tutorial/2.16.php)
+    - [https://metanit.com/java/tutorial/2.17.php](https://metanit.com/java/tutorial/2.17.php)
+    - [http://developer.alexanderklimov.ru/android/java/methods.php](http://developer.alexanderklimov.ru/android/java/methods.php)
+    - [https://youtu.be/yscAqAcB7ok](https://youtu.be/yscAqAcB7ok)
     
 4. Преобразование строки в число:
-    - http://study-java.ru/uroki-java/urok-7-preobrazovanie-tipov-v-java/
-    - https://youtu.be/P7b_dzMFG7s
-    - https://www.youtube.com/watch?v=iYqpSRq35PA
+    - [http://study-java.ru/uroki-java/urok-7-preobrazovanie-tipov-v-java/](http://study-java.ru/uroki-java/urok-7-preobrazovanie-tipov-v-java/)
+    - [https://youtu.be/P7b_dzMFG7s](https://youtu.be/P7b_dzMFG7s)
+    - [https://www.youtube.com/watch?v=iYqpSRq35PA](https://www.youtube.com/watch?v=iYqpSRq35PA)
     
 5. Класс String, работа со строками:
-    - https://metanit.com/java/tutorial/7.1.php
-    - https://metanit.com/java/tutorial/7.2.php
-    - http://developer.alexanderklimov.ru/android/java/string.php
-    - https://youtu.be/-YK8B4WO7nI
+    - [https://metanit.com/java/tutorial/7.1.php](https://metanit.com/java/tutorial/7.1.php)
+    - [https://metanit.com/java/tutorial/7.2.php](https://metanit.com/java/tutorial/7.2.php)
+    - [http://developer.alexanderklimov.ru/android/java/string.php](http://developer.alexanderklimov.ru/android/java/string.php)
+    - [https://youtu.be/-YK8B4WO7nI](https://youtu.be/-YK8B4WO7nI)
     
 6. Циклы в Java:
-    - https://metanit.com/java/tutorial/2.6.php
-    - https://youtu.be/Q2DXFrzYWJs
-    - https://youtu.be/6Vnm9T4NC2k
+    - [https://metanit.com/java/tutorial/2.6.php](https://metanit.com/java/tutorial/2.6.php)
+    - [https://youtu.be/Q2DXFrzYWJs](https://youtu.be/Q2DXFrzYWJs)
+    - [https://youtu.be/6Vnm9T4NC2k](https://youtu.be/6Vnm9T4NC2k)
     
 7. Работа с массивами:
-    - https://metanit.com/java/tutorial/2.4.php
-    - http://developer.alexanderklimov.ru/android/java/array.php
-    - https://www.youtube.com/watch?v=i_IiGj65bJM
-    - https://youtu.be/li86TEAEhYM
+    - [https://metanit.com/java/tutorial/2.4.php](https://metanit.com/java/tutorial/2.4.php)
+    - [http://developer.alexanderklimov.ru/android/java/array.php](http://developer.alexanderklimov.ru/android/java/array.php)
+    - [https://www.youtube.com/watch?v=i_IiGj65bJM](https://www.youtube.com/watch?v=i_IiGj65bJM)
+    - [https://youtu.be/li86TEAEhYM](https://youtu.be/li86TEAEhYM)
     
 8. Логические операторы:
-    - http://developer.alexanderklimov.ru/android/java/logic_operators.php
-    - https://youtu.be/IbKrOnjHdcE
+    - [http://developer.alexanderklimov.ru/android/java/logic_operators.php](http://developer.alexanderklimov.ru/android/java/logic_operators.php)
+    - [https://youtu.be/IbKrOnjHdcE](https://youtu.be/IbKrOnjHdcE)
     
 9. Условные операторы, сравнение, switch case:
-    - https://metanit.com/java/tutorial/2.5.php
-    - http://developer.alexanderklimov.ru/android/java/if.php
-    - http://developer.alexanderklimov.ru/android/java/comparison.php
-    - http://developer.alexanderklimov.ru/android/java/switch.php
-    - https://www.youtube.com/watch?v=AzbyMP6qXo0
-    - https://youtu.be/QJHcGWbzk3U
+    - [https://metanit.com/java/tutorial/2.5.php](https://metanit.com/java/tutorial/2.5.php)
+    - [http://developer.alexanderklimov.ru/android/java/if.php](http://developer.alexanderklimov.ru/android/java/if.php)
+    - [http://developer.alexanderklimov.ru/android/java/comparison.php](http://developer.alexanderklimov.ru/android/java/comparison.php)
+    - [http://developer.alexanderklimov.ru/android/java/switch.php](http://developer.alexanderklimov.ru/android/java/switch.php)
+    - [https://www.youtube.com/watch?v=AzbyMP6qXo0](https://www.youtube.com/watch?v=AzbyMP6qXo0)
+    - [https://youtu.be/QJHcGWbzk3U](https://youtu.be/QJHcGWbzk3U)
     
 10. Enum:
-    - https://youtu.be/GOzNp1YAm5w
-    - http://developer.alexanderklimov.ru/android/java/enum.php
+    - [https://youtu.be/GOzNp1YAm5w](https://youtu.be/GOzNp1YAm5w)
+    - [http://developer.alexanderklimov.ru/android/java/enum.php](http://developer.alexanderklimov.ru/android/java/enum.php)
     
 11. Работа с консолью - ввод/вывод, классы Scanner и BufferedReader:
-    - https://metanit.com/java/tutorial/2.9.php
-    - https://metanit.com/java/tutorial/6.9.php
-    - https://www.youtube.com/watch?v=Y2iB_DwdyfM
-    - https://www.youtube.com/watch?v=8qEvVLr4tg8
+    - [https://metanit.com/java/tutorial/2.9.php](https://metanit.com/java/tutorial/2.9.php)
+    - [https://metanit.com/java/tutorial/6.9.php](https://metanit.com/java/tutorial/6.9.php)
+    - [https://www.youtube.com/watch?v=Y2iB_DwdyfM](https://www.youtube.com/watch?v=Y2iB_DwdyfM)
+    - [https://www.youtube.com/watch?v=8qEvVLr4tg8](https://www.youtube.com/watch?v=8qEvVLr4tg8)
     
 12. Java и ООП:
-    - https://metanit.com/java/tutorial/3.1.php
-    - https://youtu.be/_25bk1zQqyk
-    - https://youtu.be/VOUuYiTR8hs
-    - https://youtu.be/yoFRDSh6lWI
+    - [https://metanit.com/java/tutorial/3.1.php](https://metanit.com/java/tutorial/3.1.php)
+    - [https://youtu.be/_25bk1zQqyk](https://youtu.be/_25bk1zQqyk)
+    - [https://youtu.be/VOUuYiTR8hs](https://youtu.be/VOUuYiTR8hs)
+    - [https://youtu.be/yoFRDSh6lWI](https://youtu.be/yoFRDSh6lWI)
     
 13. Обработка ошибок и создание своих исключений:
-    - https://metanit.com/java/tutorial/2.10.php
-    - http://developer.alexanderklimov.ru/android/java/exception.php
-    - https://www.youtube.com/watch?v=ZspkReG8L2E
+    - [https://metanit.com/java/tutorial/2.10.php](https://metanit.com/java/tutorial/2.10.php)
+    - [http://developer.alexanderklimov.ru/android/java/exception.php](http://developer.alexanderklimov.ru/android/java/exception.php)
+    - [https://www.youtube.com/watch?v=ZspkReG8L2E](https://www.youtube.com/watch?v=ZspkReG8L2E)
 
 ##### Помогут также следующие ресурсы:
 1. [Курс CodeBasics](https://ru.code-basics.com/languages/java) - интерактивный курс по основам.  
