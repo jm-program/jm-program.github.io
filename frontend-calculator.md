@@ -4,7 +4,7 @@
 
 Ссылка на задачу: [https://repl.it/@JavaMentor/RomanCalculator](https://repl.it/@JavaMentor/RomanCalculator)
 
-После решения задачи, сохраняем ссылку на решение (url страницы или нажимаем **Share** и копируем ссылку из поля **Share Link**).
+После решения задачи, сохраняем ссылку на решение (скопировать url).
 
 Решение сохраняется на платформе под уникальным url, которое нужно будет выслать нам на почту *info@java-mentor.com* с темой **"Тестовое задание Front-end"**
 
@@ -45,17 +45,21 @@ calculate('1 + 1 + 1'); // throws Error
 Решения, где будет только одна функция calculate, будут низко оценены.
 
 ## Работа с repl.it 
+1. Необходимо зарегистироваться или залогиниться на платформе https://replit.com/
+2. Перейти по сслыке https://repl.it/@JavaMentor/RomanCalculator и нажать кнопку "Fork", чтобы начать решать задачу
+<img src="https://jm-program.github.io/img/fork.png" atl="Неверное решение" width="400px" />
+
 #### Основной интерфейс:
-![Интерфейс](https://jm-program.github.io/img/romanCalc.png)
+![Интерфейс](https://jm-program.github.io/img/ui.png)
 
 После нажатия кнопки “run” ваш код будет протестирован. Результаты тестов будет выведен в консоль. В консоли может быть как сообщение об успешном выполнении, так и сообщения об ошибках.  
 Вам нужно написать такой код, который пройдет все проверки.  
 
 #### Решение не прошло проверку
-<img src="https://jm-program.github.io/img/replTestSample.png" atl="Неверное решение" width="400px" />
+<img src="https://jm-program.github.io/img/fail.png" atl="Неверное решение" width="800px" />
 
 #### Успешное решение задачи:
-<img src="https://jm-program.github.io/img/replSuccess.png" atl="Успешное решение" width="400px" />
+<img src="https://jm-program.github.io/img/success.png" atl="Успешное решение" width="800px" />
 
 ## Требования
 - Вы должны решить задачу самостоятельно, без чьей-либо помощи
