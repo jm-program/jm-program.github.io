@@ -101,7 +101,7 @@ a + b, a - b, a * b, a / b.  <b> Данные передаются в одну �
 1. [Трегулов, Програмания](https://www.youtube.com/watch?v=TQ_vwm4h0ro&list=PLqj7-hRTFl_rqruGcnd2V8SPbY0j9DzT5) 
 2. [Канал Алишева](https://www.youtube.com/watch?v=ziOQ8wkmnSE&list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak)
 3. [Metanit. Руководство по языку программирования Java.](https://metanit.com/java/tutorial/) 
-4. [Java для начинающихю. Курс](https://ru.code-basics.com/languages/java) 
+4. [Java для начинающих. Курс](https://ru.code-basics.com/languages/java) 
 9. Гугл - основной инструмент для поиска информации.
 
 ### Я написал код, а мне выдает какую-то ошибку
