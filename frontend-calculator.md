@@ -95,9 +95,11 @@ calculate('1 + 1 + 1'); // вернётся исключение throws Error т
 
 ## Я знаю другой язык программирования, но не знаю JavaScript.
 
-1. [Side-by-side code snippets](https://rosetta.alhur.es/) - сравнение примеров кодов на разных языках. Выбираем ваш язык и javascript - изучаем сходства/различия.
-2. [Learn X in Y minutes - JS](https://github.com/adambard/learnxinyminutes-docs/blob/master/ru-ru/javascript-ru.html.markdown) - Короткий обзор синтаксиса языка.
-3. Все ссылки из предыдущего вопроса
+1. [Hello World на разных языках программирования](https://vscode.ru/articles/hello-world-na-raznyh-yazykah-programmirovaniya.html) — наглядный пример «Hello World!», который отражает некоторые отличия языков программирования.
+2. [Решение одной задачи с помощью 16 языков программирования](https://habr.com/ru/companies/cloud4y/articles/691602/) — ещё один пример, благодаря которому можно разобраться в отличиях разных языков программирования.
+3. [Сравнение языков программирования по синтаксису](https://cyclowiki.org/wiki/%D0%A1%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81%D1%83) — здесь подробно рассматривается более 50 языков программирования.
+4. [Learn X in Y minutes - JS](https://github.com/adambard/learnxinyminutes-docs/blob/master/ru-ru/javascript-ru.html.markdown) — Короткий обзор синтаксиса языка.
+5. Все ссылки из предыдущего вопроса
 
 ## Я написал код, а мне выдает какую-то ошибку
 
